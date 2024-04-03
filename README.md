@@ -1,6 +1,6 @@
 # HamsterCMS_ascii_yellow_theme
 
-https://github.com/turboblack/HamsterCMS theme for HamsterCMS adapted for old browsers
+https://github.com/turboblack/HamsterCMS theme for HamsterCMS
 
 ![this is what theme looks like](https://github.com/turboblack/HamsterCMS_ascii_yellow_theme/blob/main/ascii_yellow.png)
 
